@@ -1,7 +1,7 @@
 # Site settings
 title: Fengxl Blog
-SEOTitle: 冯小龙的博客 | Blog
-header-img: img/about-gentle.png
+SEOTitle: 冯小龙的博客 | xl Blog
+header-img: img/post-bg-unix-linux.jpg
 email: fengxiaolong28@gmail.com
 description: "冯小龙的个人博客"
 keyword: "Android,java,生活"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/fengxl28/fengxl28.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "明明可以靠外表，非要用实力!"
 sidebar-avatar: /img/about-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
